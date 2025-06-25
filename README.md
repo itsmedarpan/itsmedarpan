@@ -3,9 +3,9 @@
 
 ---
 
-## 👨‍💻 About Me
-I'm **Darpan Adhikari**, a passionate **Computer Science student and backend developer** from Nepal 🇳🇵. I'm deeply interested in **AI/ML**, backend systems, and web development — constantly exploring new tools and solving real-world problems.  
-In my free time, I enjoy writing **xianxia novels** ✍️ and experimenting with game development 🎮.
+## 👨‍💻 About Me  
+Hey there 👋 I'm **Darpan Adhikari**, a curious **Computer Science student and backend developer** from **Nepal 🇳🇵**. I’m passionate about building **scalable backend systems and modern web applications**. I love experimenting with **computer vision and machine learning projects** in my free time and always enjoy diving into new tech.
+
 
 ---
 
