@@ -1,55 +1,68 @@
-# 👋 Hi, I'm Darpan Adhikari
-
-## 🖥️ About Me
-I'm a passionate **Computer Science student from Nepal**, currently pursuing my degree while actively exploring various domains in software development. I have a strong foundation in **C, C++, Python, Django, and basic JavaScript** — and I'm continuously learning new tools and technologies to grow as a developer.
-
-I'm especially interested in:
-- 🧠 **Artificial Intelligence / Machine Learning**
-- 🖥️ **Backend Development**
-- 🎮 **Game Development** (using Pygame and Godot as a hobby)
-- 🛠️ **Computer Vision & OCR Projects**
-- 📝 **Writing xianxia/xuanhuan cultivation novels** in my spare time!
+<img alt="Darpan's Welcome Message"
+     src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=false&vCenter=false&lines=Hey+there!+I'm+Darpan+Adhikari+👋" />
 
 ---
 
-## 📚 Currently Learning
-- 🔸 **Django Rest Framework (DRF)** & **JWT Authentication**
-- 🔸 **OpenCV & Template Matching**
-- 🔸 **Data Structures & Algorithms (with C++)**
-- 🔸 **Python Automation & AI-focused tools**
-- 🔸 **Low-level Programming Concepts & System Design**
+## 👨‍💻 About Me
+I'm **Darpan Adhikari**, a passionate **Computer Science student and backend developer** from Nepal 🇳🇵. I'm deeply interested in **AI/ML**, backend systems, and web development — constantly exploring new tools and solving real-world problems.  
+In my free time, I enjoy writing **xianxia novels** ✍️ and experimenting with game development 🎮.
 
 ---
 
-## ⚙️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+## 🔗 Connect with Me
+[![LinkedIn Badge](https://img.shields.io/badge/-itsmedarpan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsmedarpan)](https://www.linkedin.com/in/itsmedarpan/)
+[![Portfolio Badge](https://img.shields.io/badge/-itsmedarpan.com.np-24292e?style=flat&logo=Google-Chrome&logoColor=white)](https://itsmedarpan.com.np)
+[![Gmail Badge](https://img.shields.io/badge/-heyitsmedarpan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:heyitsmedarpan@gmail.com)
 
 ---
 
-## 🔥 Projects I'm Working On
-- 📖 **Django Blog Platform** with user authentication, likes, comments, and REST API.
-- 🕹️ **Simple Game AI** using OpenCV for template matching and click automation.
-- 🌐 **Job Aggregator for Nepal** (web crawler + job listing site concept)
-- ✍️ **Cultivation Novel Series** (xianxia/xuanhuan inspired)
+## ⚙️ Main Technologies
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Django Rest Framework](https://img.shields.io/badge/-DRF-black?style=flat-square&logo=django)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
+
+---
+
+## 🔥 Side Technologies
+
+**Frontend**
+- ![HTMX](https://img.shields.io/badge/-HTMX-black?style=flat-square)
+- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+- ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+**Backend**
+- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+- ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+- ![Django Rest Framework](https://img.shields.io/badge/-DRF-black?style=flat-square&logo=django)
+
+**ML / AI**
+- ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
+
+**Software & Tools**
+- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+- ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+- ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+- ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 
 ---
 
 ## 📊 GitHub Stats
-![Darpan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmedarpan&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula" />
 
 ---
 
-## 📫 Let's Connect!
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- ✉️ Email: your.email@example.com
+## ✍️ Latest Writings / Blogs *(Coming Soon!)*
+
+<!--START_SECTION:feed-->
+<!-- No posts yet -->
+<!--END_SECTION:feed-->
 
 ---
 
-*“Always learning, always building.”*
-
+**“Always learning, always building.”** 🚀
